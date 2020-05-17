@@ -3,15 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vigroco.github.io/jasoncraftwrites.com/public/categories/</loc>
+    <loc>https://vigroco.github.io/jasoncraftwrites.com/posts/first/</loc>
+    <lastmod>2020-05-16T20:58:17-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vigroco.github.io/jasoncraftwrites.com/public/</loc>
+    <loc>https://vigroco.github.io/jasoncraftwrites.com/posts/</loc>
+    <lastmod>2020-05-16T20:58:17-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vigroco.github.io/jasoncraftwrites.com/public/tags/</loc>
+    <loc>https://vigroco.github.io/jasoncraftwrites.com/about/</loc>
+    <lastmod>2020-05-16T20:56:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vigroco.github.io/jasoncraftwrites.com/</loc>
+    <lastmod>2020-05-16T20:56:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vigroco.github.io/jasoncraftwrites.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vigroco.github.io/jasoncraftwrites.com/tags/</loc>
   </url>
   
 </urlset>
