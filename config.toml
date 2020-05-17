@@ -1,4 +1,4 @@
-baseURL = "https://vigroco.github.io/sites/jasoncraftwrites.com/public/index.html"
+baseURL = "https://vigroco.github.io/jasoncraftwrites.com/public/index.html"
 languageCode = "en-us"
 title = "Jason Craft, Creator of Worlds"
-theme = "massively"
+theme = "ananke"
