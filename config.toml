@@ -1,5 +1,56 @@
 baseURL = "https://jasoncraftwrites.com"
 languageCode = "en-us"
-title = "Jason Craft, Creator of Worlds"
+title = "Creator of Worlds"
 theme = "massively"
 publishDir = "docs"
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# sectionPagesMenu = "main"
+[menu]
+
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = -80
+
+    [[menu.main]]
+        identifier = "about"
+        name = "About Me"
+        url = "/about/"
+        weight = -110
+        parent = "home"
+
+    [[menu.main]]
+        identifier = "books"
+        name = "My Books"
+        url = "/books/"
+        weight = -100
+
+    [[menu.main]]
+        parent = "books"
+        name = "Shadesin"
+        url = "/books/shadeskin/"
+
+[params]
+  background_color_class = "bg-black"
+  featured_image = "/images/bg.jpg"
+  # set below parameter to define a favicon
+  # favicon = "favicon.ico"
+  # set to change date format
+  # dateFormat = "2.1.2006"
+
+# Below parameters can be set to override default post settings
+#[params.posts]
+#     folderName = "post"
+#     pageSize = "6"
+#     featuredPost = "true"
+#     paginationPages = 2
+#     showFirstLast = false
+
+[languages]
+[languages.en]
+  languageName = "English"
+#[languages.es]
+#  languageName = "Español"
+#  title = "Massively - Versión Español"
