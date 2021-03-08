@@ -3,23 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jasoncraftwrites.com/books/</loc>
+    <loc>https://jasoncraftwrites.com/</loc>
     <lastmod>2020-05-19T21:55:08-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jasoncraftwrites.com/</loc>
+    <loc>https://jasoncraftwrites.com/books/</loc>
     <lastmod>2020-05-19T21:55:08-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jasoncraftwrites.com/about/</loc>
     <lastmod>2020-05-17T13:44:49-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasoncraftwrites.com/posts/first/</loc>
-    <lastmod>2020-05-16T20:58:17-07:00</lastmod>
   </url>
   
 </urlset>

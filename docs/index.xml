@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creator of Worlds</title>
+    <title>Jason Craft: Creator of Worlds</title>
     <link>https://jasoncraftwrites.com/</link>
-    <description>Recent content on Creator of Worlds</description>
+    <description>Recent content on Jason Craft: Creator of Worlds</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 May 2020 21:55:08 -0700</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Books</title>
+      <title>My Books</title>
       <link>https://jasoncraftwrites.com/books/</link>
       <pubDate>Tue, 19 May 2020 21:55:08 -0700</pubDate>
       
@@ -27,18 +27,7 @@ Supremcy: Reformation Cast down and imprisoned in the age past, the gods left th
       <pubDate>Sun, 17 May 2020 13:44:49 -0700</pubDate>
       
       <guid>https://jasoncraftwrites.com/about/</guid>
-      <description>About Me I&amp;rsquo;m an author who writes things that he finds interesting. I&amp;rsquo;m mostly in the speculative fiction space.</description>
-    </item>
-    
-    <item>
-      <title>Intro</title>
-      <link>https://jasoncraftwrites.com/posts/first/</link>
-      <pubDate>Sat, 16 May 2020 20:58:17 -0700</pubDate>
-      
-      <guid>https://jasoncraftwrites.com/posts/first/</guid>
-      <description>Just and Intro about stuff and things.
-test test and more test
-Adding more stuff</description>
+      <description>About Me I grew up in the Deep South with stories filling my head of places other than my home state of Louisiana. After surviving the typical, American middle-class adolecent experience, I grew up to be a halfway-decent software engineer. Eventually, I moved out of Louisiana up to Seattle, Washington where I now reside with my wife and our two cats. Now that I&amp;rsquo;m legally classified as an adult, I write these stories that have followed me throughout my life.</description>
     </item>
     
   </channel>
