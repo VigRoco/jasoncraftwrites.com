@@ -1,6 +1,5 @@
 links:
-  - title: "About"
-  - url: "/about/"
-links:
-  - title: "Books"
-  - url: "/books/"
+  - title: "More About Me"
+    url: "/about/"
+  - title: "My Books"
+    url: "/books/"
